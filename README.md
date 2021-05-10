@@ -9,10 +9,10 @@ This is work-in-progress...
 The folder structure should be:
 
 - company 
-- device
-  - pins.txt
-  - pckg-xxx.txt
-  - arduino.txt
+    - device
+      - pins.txt
+      - pckg-xxx.txt
+      - arduino.txt
 
 ### Example:
 
@@ -74,4 +74,4 @@ PA1\t9
 
 - [ ] how to handle multiple names (ATTiny441/841)?
 - [ ] how to describe configurations (pin-mappings, etc.)?
-- [ ] describe technical parameters?
+- [ ] describe technical parameters? (info.txt?)
